@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 <img src="https://github.com/mayura-alahakoon/Task-Tracker-Angular/blob/master/Screenshot%20from%202023-01-08%2007-17-25.png">
 <hr>
-<img src="">
+<img src="https://github.com/mayura-alahakoon/Task-Tracker-Angular/blob/master/Screenshot%20from%202023-01-08%2007-17-32.png">
 
 ## Development server
 
